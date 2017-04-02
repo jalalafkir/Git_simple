@@ -1,0 +1,65 @@
+h2
+{
+text-align:center;
+}
+div#bandeau{
+clear:both;
+height:50px;
+background-color:#00ccFF;
+padding: 1px;
+text-align:center;
+margin-bottom:20px
+}
+div#cgauche
+{
+float:left;
+width:150px;
+height:250px;
+background-color:#ff6699;
+text-align:center;
+}
+div#cdroite
+{
+float:right;
+width:150px;
+background-color:#66cc33;
+text-align:center;
+}
+div#ccentre
+{
+padding:0px 160px 5px 160px;
+margin:0;
+background-color:#ffcc00;
+}
+div#piedDepage{
+clear:both;
+background-color:yellow;
+}
+div#menu a
+{
+display:block;
+height:50px;
+border: 1px solid red;
+line-height:50px;
+text-decoration:none;
+}
+div#menu a.class5:hover
+{
+background-color:green;
+}
+div#menu a.class1:hover
+{
+background-color:gray;
+}
+div#menu a.class2:hover
+{
+background-color:lime;
+}
+div#menu a.class3:hover
+{
+background-color:olive;
+}
+div#menu a.class4:hover
+{
+background-color:teal;
+}
