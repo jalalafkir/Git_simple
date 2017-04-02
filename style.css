@@ -31,9 +31,10 @@ padding:0px 160px 5px 160px;
 margin:0;
 background-color:#ffcc00;
 }
-div#piedDepage{
-clear:both;
-background-color:yellow;
+footer{
+	text-align: center;
+	background: #59b300;
+	height: 50px;
 }
 div#menu a
 {
