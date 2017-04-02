@@ -64,3 +64,9 @@ div#menu a.class4:hover
 {
 background-color:teal;
 }
+#form{
+	width:auto;
+	text-align: center;
+	background: #ffd7e6;
+	padding: 10px;
+}
